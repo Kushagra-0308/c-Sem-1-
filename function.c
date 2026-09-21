@@ -2,9 +2,9 @@
 
 int sum(int, int);
 
-int sum(int a, int b)
+int sum(int x, int y)
 {
-    return a + b;
+    return x + y;
 }
 
 int main()
